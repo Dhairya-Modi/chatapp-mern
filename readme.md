@@ -4,3 +4,5 @@ Use this app to chat.
 This app is made by using MERN
 Guide-
 Ridham Patel
+
+1st commit
